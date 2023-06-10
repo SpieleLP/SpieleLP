@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Silas</h1>
 
 
-<p align="center"> 🌐  Languages</p>
+<h3 align="center"> 🌐  Languages</h3>
 
 <p align="center">- German</p>
 <p align="center"><p align="center">- English</p>
@@ -9,7 +9,7 @@
 
 ---
 
-<p align="center"> ⚠️  Operating Systems </p>
+<h3 align="center"> ⚠️  Operating Systems </h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="IOS">
@@ -19,7 +19,7 @@
 
 ---
 
-<p align="center"> 🛠️ Tools and Platforms </p>
+<h3 align="center"> 🛠️ Tools and Platforms </h3>
 
 <p align="center" style="text-align: center;">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
