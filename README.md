@@ -6,6 +6,8 @@
 <p align="center">- German</p>
 <p align="center"><p align="center">- English</p>
 <p align="center">- Spigot-Skript</p>
+<p align="center">- Python</p>
+<p align="center">- HTML/CSS</p>
 
 ---
 
