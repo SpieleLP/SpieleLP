@@ -25,7 +25,7 @@
 
 <p align="center" style="text-align: center;">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    SpieleLP#1414
+    SpieleLP#0000
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"> </a>
     SpieleLP
 </p>
